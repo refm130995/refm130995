@@ -4,10 +4,21 @@
 
 5+ years building single-page applications for U.S. companies in insurtech and healthtech, working remotely in small, fast-moving teams. I focus on **data-heavy interfaces**, **performance**, and **component-driven development**.
 
-- 🔭 **Featured project:** [Spatial Pulse](https://github.com/refm130995/spatial-pulse) — a real-time space-analytics dashboard ([live demo](https://refm130995.github.io/spatial-pulse/))
 - 🧩 Comfortable across the stack: React/Next on the front, Node.js/NestJS on the back
 - 📈 Recent win: cut frontend load time ~35% (Lighthouse / Core Web Vitals) on a production app
 - 🌎 Based in LATAM · available for remote roles · English B2
+
+### 🚀 Featured projects
+
+| Project | What it is | Live |
+|---------|-----------|------|
+| [**Spatial Pulse**](https://github.com/refm130995/spatial-pulse) | Real-time space-analytics dashboard | [demo](https://refm130995.github.io/spatial-pulse/) |
+| [**Git Explorer**](https://github.com/refm130995/git-explorer) | Search GitHub users & repositories | [demo](https://refm130995.github.io/git-explorer/) |
+| [**TaskFlow**](https://github.com/refm130995/taskflow) | Drag-and-drop kanban board | [demo](https://refm130995.github.io/taskflow/) |
+| [**SkyCast**](https://github.com/refm130995/skycast) | Weather & 7-day forecast | [demo](https://refm130995.github.io/skycast/) |
+| [**CoinPulse**](https://github.com/refm130995/coinpulse) | Live crypto market tracker | [demo](https://refm130995.github.io/coinpulse/) |
+
+All built with **React + TypeScript + Vite** and deployed via GitHub Actions.
 
 ### Tech
 
